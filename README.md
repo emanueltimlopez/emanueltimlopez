@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! I'm Ema, a product-led Software Engineer
 
-<!--
-**emanueltimlopez/emanueltimlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been in the software development world for 15 years. I began as a freelance, then joined an agency, working on various projects, including game development. Later on, I transitioned to a large company where I gained experience in scalability, quality, and leadership teams.
 
-Here are some ideas to get you started:
+Now I work in technical consulting, creating apps, and helping to improve product discovery and delivery for startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love making proyects, some of them:
+
+## --- Webs
+- [emalopez.dev: personal site](https://github.com/emanueltimlopez/emalopez.dev) _Vercel, NextJS, React, Tailwind_
+## --- Apps
+- [Superb: Token economy boards to reinforce behaviors in therapy for children. ](https://github.com/emanueltimlopez/superb) _Vercel, React Native, Typescript, Expo, Play Store_
+## --- Games
+- [No oasis here](https://github.com/emanueltimlopez/no-oasis-here) _itch.io, PhaserJS, Javascript_
