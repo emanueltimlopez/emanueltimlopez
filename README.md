@@ -6,9 +6,12 @@ Now I work in technical consulting, creating apps, and helping to improve produc
 
 I love making proyects, some of them:
 
-## --- Webs
+## --- Web / Webapps
 - [emalopez.dev: personal site](https://github.com/emanueltimlopez/emalopez.dev) _Vercel, NextJS, React, Tailwind_
+- [Patmos: tool for readers](https://github.com/emanueltimlopez/patmos) _Golang, Fly.io_
 ## --- Apps
 - [Superb: Token economy boards to reinforce behaviors in therapy for children. ](https://github.com/emanueltimlopez/superb) _Vercel, React Native, Typescript, Expo, Play Store_
 ## --- Games
-- [No oasis here](https://github.com/emanueltimlopez/no-oasis-here) _itch.io, PhaserJS, Javascript_
+- [Phaser game template](https://github.com/emanueltimlopez/phaser-game-template) _Parcel, Typescript, PhaserJS_
+- [No oasis here: Card game](https://github.com/emanueltimlopez/no-oasis-here) _itch.io, PhaserJS, Javascript_
+- [Bugs everywhere: Platform game](https://github.com/emanueltimlopez/bugs-everywhere) _itch.io, PhaserJS, Javascript_
