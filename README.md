@@ -12,6 +12,7 @@ I love making proyects, some of them:
 ## --- Apps
 - [Superb: Token economy boards to reinforce behaviors in therapy for children. ](https://github.com/emanueltimlopez/superb) _Vercel, React Native, Typescript, Expo, Play Store_
 ## --- Games
+- [Faztkeyw: Test your typing WPM](https://github.com/emanueltimlopez/faztkeyw) _Deno, Typescript_
 - [Phaser game template](https://github.com/emanueltimlopez/phaser-game-template) _Parcel, Typescript, PhaserJS_
 - [No oasis here: Card game](https://github.com/emanueltimlopez/no-oasis-here) _itch.io, PhaserJS, Javascript_
 - [Bugs everywhere: Platform game](https://github.com/emanueltimlopez/bugs-everywhere) _itch.io, PhaserJS, Javascript_
