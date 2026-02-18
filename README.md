@@ -9,11 +9,11 @@ I love making proyects, some of them:
 ## --- Web / Webapps
 - [emalopez.dev: personal site](https://github.com/emanueltimlopez/emalopez.dev) _Vercel, NextJS, React, Tailwind_
 ## --- Apps
-- [Superb: Visual timer & token economy boards to reinforce behaviors in therapy for children](https://play.google.com/store/apps/details?id=com.wombat.superb) | [<Code>](https://github.com/emanueltimlopez/superb) _React Native, Typescript, Expo, Play Store_
+- [Superb: Visual timer & token economy boards to reinforce behaviors in therapy for children](https://play.google.com/store/apps/details?id=com.wombat.superb) | [Code](https://github.com/emanueltimlopez/superb) _React Native, Typescript, Expo, Play Store_
 ## --- Games
-- [Deep OS: Job simulator, process the files, make money](https://github.com/emanueltimlopez/deepos) | [<Code>](https://emanuellopez.itch.io/deep-os) _Lua, LOVE2D_
-- [Faztkeyw: Test your typing WPM](https://emanuellopez.itch.io/faztkeyw-type-fast) | [<Code>](https://github.com/emanueltimlopez/faztkeyw) _Deno, Typescript_
+- [Deep OS: Job simulator, process the files, make money](https://github.com/emanueltimlopez/deepos) | [Code](https://emanuellopez.itch.io/deep-os) _itch.io, Lua, LOVE2D_
+- [Faztkeyw: Test your typing WPM](https://emanuellopez.itch.io/faztkeyw-type-fast) | [Code](https://github.com/emanueltimlopez/faztkeyw) _itch.io, Deno, Typescript_
 - [Last change GP: Make a pit stop in 20 seconds](https://emanuellopez.itch.io/last-change-gp) _Unity, C#_
 - [Phaser game template](https://github.com/emanueltimlopez/phaser-game-template) _Parcel, Typescript, PhaserJS_
-- [No oasis here: Card game](https://emanuellopez.itch.io/no-oasis-here) | [<Code>](https://github.com/emanueltimlopez/no-oasis-here) _itch.io, PhaserJS, Javascript_
-- [Bugs everywhere: Platform game](https://emanuellopez.itch.io/bugs-everywhere) | [<Code>](https://github.com/emanueltimlopez/bugs-everywhere) _itch.io, PhaserJS, Javascript_
+- [No oasis here: Card game](https://emanuellopez.itch.io/no-oasis-here) | [Code](https://github.com/emanueltimlopez/no-oasis-here) _itch.io, PhaserJS, Javascript_
+- [Bugs everywhere: Platform game](https://emanuellopez.itch.io/bugs-everywhere) | [Code](https://github.com/emanueltimlopez/bugs-everywhere) _itch.io, PhaserJS, Javascript_
